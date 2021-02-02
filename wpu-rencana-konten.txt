@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
--Belajar C++
+-Belajar JAVASCRIPT
+  *ES6
+  *Framework Javascript
 -Belajar PHP
 -Belajar PYTHON
 -Belajar RUBY
