@@ -1,0 +1,7 @@
+RENCANA KONTEN WPU
+-Belajar JAVASCRIPT
+  *ES6
+  *Framework Javascript
+-Belajar PHP
+-Belajar PYTHON
+-Belajar RUBY
