@@ -2,10 +2,12 @@ RENCANA KONTEN WPU
 -Belajar JAVASCRIPT
   *ES6
   *Framework Javascript
-   ^ Angular
+   ^ Vue
    ^ React
+-Struktur Data Dasar
 -Belajar PHP
   *Framework PHP
    ^ Laravel
 -Belajar PYTHON
 -Belajar RUBY
+-C++
